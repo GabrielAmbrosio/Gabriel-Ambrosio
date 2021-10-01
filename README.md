@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielAmbrosio
-- 👀 I’m interested in Computing, Cars
+- 👀 I’m interested in Computing, Cars 🚗
 - 🌱 I’m always learning about Programming
 - 📫 How to reach me -> https://www.linkedin.com/in/gabriel-a-269bb5192/
 
